@@ -1,0 +1,20 @@
+{
+	"name": "vue2-plain",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"dev": "rollup -cw",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.19.6",
+		"@babel/preset-env": "^7.19.4",
+		"@rollup/plugin-babel": "^6.0.2",
+		"rollup": "^3.2.3"
+	},
+	"type": "module"
+}
